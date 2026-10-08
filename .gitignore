@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.DS_Store
+data/
+tokens/
+tokens_rvq/
+models/
+models_rvq/
+results/
+runs/
+*.pt
+*.npy
+*.mp4
+*.wav
